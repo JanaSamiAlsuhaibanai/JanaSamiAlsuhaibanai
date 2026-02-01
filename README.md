@@ -25,7 +25,7 @@ I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** tha
 ---
 
 ## 💼 Experience
-### Data Scientist — R&D Trainee @ THIQAH (Sep 2025 – Dec 2025)
+### Data Scientist — R&D Trainee @ THIQAH 
 - Built **multimodal RAG pipelines** using vector databases for retrieving from text, images, and documents
 - Implemented **LLM observability/monitoring** with LangFuse, Phoenix, MLflow, Promptfoo
 - Benchmarked **OCR models & VLMs** for **Arabic document processing** and contributed to an end-to-end production pipeline
