@@ -2,7 +2,6 @@
 AI/ML enthusiast focused on **NLP**, **Agentic AI**, and **Data Science**.  
 I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** that solve real-world problems.
 
----
 
 
 
@@ -12,7 +11,7 @@ I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** tha
 - **LLM evaluation & observability** (tracing, quality metrics, prompt testing)
 - **Arabic NLP & document processing** (OCR + Vision-Language Models)
 
----
+
 
 ## 🧰 Tech Stack
 **Languages:** Python, Java  
@@ -22,7 +21,7 @@ I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** tha
 **Backend:** FastAPI, Swagger UI  
 **DevOps:** Docker, Conda, Git, GitHub, UV  
 
----
+
 
 ## 💼 Experience
 ### Data Scientist — R&D Trainee @ THIQAH 
@@ -33,7 +32,7 @@ I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** tha
 - Supported R&D culture through **Journal Club** and articles for an internal knowledge hub
 - Built MLOps practices: **APIs, containerization, automated workflows**, and reproducible experiments
 
----
+
 
 ## 🔗 Connect with me
 - 📧 Email: **jana.sami.alsuhaibani@gmail.com**
