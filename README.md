@@ -1,7 +1,6 @@
-#  Hi, I'm Jana Alsuhaibani 👋
-**AI/ML Engineer (NLP • Agentic AI • RAG)** based in Riyadh, Saudi Arabia 🇸🇦
-
-I build **LLM-powered systems** — from **RAG pipelines** and **Arabic document AI (OCR/VLMs)** to **tool-using agents** with monitoring and evaluation.
+#  Hi, I'm Jana Alsuhaibani 💥
+AI/ML enthusiast focused on **NLP**, **Agentic AI**, and **Data Science**.  
+I enjoy building **LLM-based systems**, **RAG pipelines**, and **AI agents** that solve real-world problems.
 
 ---
 
